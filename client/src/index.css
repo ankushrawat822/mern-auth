@@ -1,3 +1,32 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+.bb{
+    border: 2px solid blue;
+}
+
+.gg{
+    border: 2px solid green;
+}
+
+.rr{
+    border: 2px solid red;
+}
+
+
+.username-img{
+    width: 260px;
+    height: 250px;
+    border-radius: 100%;
+}
+
+.username-input{
+    border : 3px solid rgba(255, 0, 0, 0.349);
+    border-radius: 11px;
+}
+
+.username-boxshadow{
+    box-shadow: rgba(152, 47, 47, 0.432) 0px 7px 29px 0px;
+}
